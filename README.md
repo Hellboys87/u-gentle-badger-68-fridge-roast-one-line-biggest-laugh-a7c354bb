@@ -4,7 +4,7 @@
 
 # Fridge Roast: One Line, Biggest Laugh
 
-One line, aimed squarely at the smart fridge: it needs a firmware update to make ice, a subscription to pour water, and a reboot to remember it's cold. The "smart" appliance in the kitchen can't even do the one job a dumb fridge nailed in 1950.
+One line, aimed squarely at the smart fridge: a $3,000 appliance running on Wi-Fi and firmware updates that still makes ice slower than a $12 tray from 1987. All that "smart", outclassed by stamped plastic at the one job a dumb fridge nailed decades ago.
 
 ## Run it
 
